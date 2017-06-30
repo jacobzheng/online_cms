@@ -92,9 +92,9 @@ WSGI_APPLICATION = 'online_cms.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mxonline',
-        'USER': 'root',
-        'PASSWORD': 'Jacob1234%',
+        'NAME': 'xxxxxx',
+        'USER': 'xxxx',
+        'PASSWORD': 'xxxxxx',
         'HOST': '127.0.0.1'
     }
 }
